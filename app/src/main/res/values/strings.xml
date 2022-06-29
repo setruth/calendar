@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">个人课表</string>
+    <string name="title_activity_add_class">AddClassActivity</string>
+    <string name="large_text">
+    </string>
+    <string name="menu_item1">保存</string>
+    <string name="private_content">
+        《个人课程表》以下简称<b>本软件</b>。\n\n
+        本软件并不会收集或者使用您的任何信息，因为本软件无联网操作并且无任何付费问题。\n\n
+        本软件所有功能是完全免费并且无广告的。\n\n
+        本软件的用于记录用户的上课信息还有待办事项。\n\n
+        需要您基于存储方面的权限(这是必须的)，用于对课程表内容的导入以及分享。\n\n
+        需要您通知的权限(这是必须的)，但是这并不会给您推送通知信息，只是用于一些操作的提示。\n\n
+        您应该留意本软件的一些提示操作，以免不正当操作造成本软件出错或者您的软件数据损坏。\n\n
+        关于待办的模块正在开发中，请谅解。\n\n
+        若您以不正当的操作造成您的数据丢失，开发者方面无法向您做出维护。\n\n
+        若您有问题需要帮助或者解答，请在关于软件中联系开发者进行沟通。\n
+    </string>
+
+</resources>

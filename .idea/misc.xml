@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable-v24/class_item_empty_block_style.xml" value="0.2095" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable-v24/menu_layout_style.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/add.xml" value="0.17" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/around_ra.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/around_ra_active.xml" value="0.2105" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/book_icon.xml" value="0.196" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/bottom_container_style.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/btn_style.xml" value="0.1575" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/class_item_style.xml" value="0.2095" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/class_location_icon.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/class_name_icon.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/line.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/menu.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/remark_icon.xml" value="0.196" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/teacher_icon.xml" value="0.196" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/time_icon.xml" value="0.2105" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/drawable/week_item.xml" value="0.2105" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.2328125" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.17109375" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/about_dialog.xml" value="0.1935897435897436" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/activity_add_class.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/activity_all_class.xml" value="0.16367521367521368" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/activity_choose_app_open.xml" value="0.21153846153846154" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/all_class_info_time_item.xml" value="0.17094017094017094" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/all_class_item.xml" value="0.1987179487179487" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/choose_time.xml" value="0.221875" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/choose_week.xml" value="0.176" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/class_info_dialog.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/content.xml" value="0.144" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/content_container.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/content_scrolling.xml" value="0.228125" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/empty_page.xml" value="0.16282051282051282" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/import_dialog.xml" value="0.536" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/left_menu.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/private_dialog.xml" value="0.17954815695600476" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/select_class_time.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/set_class_info.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/set_now_week_index.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/layout/set_week.xml" value="0.21726535341830822" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/menu/main.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProject/calendar/app/src/main/res/menu/menu_add_class.xml" value="0.25885416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

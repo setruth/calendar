@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <LinearLayout
+        android:clickable="true"
+        android:foreground="?selectableItemBackground"
+        android:elevation="7dp"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginVertical="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/around_ra"
+        android:orientation="vertical"
+        android:paddingTop="15dp"
+        android:paddingBottom="5dp"
+        android:paddingHorizontal="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="课程名称："
+                android:textColor="#FF4B95"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/class_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/class_count"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#45CDB0"
+                android:text="一共有几节课"
+                android:textSize="20sp" />
+            <TextView
+                android:id="@+id/class_info_to"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:textColor="#FFA84B"
+                android:text="到第几周"
+                android:textSize="20sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="3px"
+            android:layout_marginTop="10dp"
+            android:background="@color/line_color"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:clickable="true"
+                android:paddingVertical="10dp"
+                android:id="@+id/delete_class"
+                android:foreground="?selectableItemBackground"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="删除"
+                android:textColor="@color/delete_text"
+                android:gravity="center"/>
+            <LinearLayout
+                android:layout_width="3px"
+                android:layout_height="match_parent"
+                android:background="@color/line_color"/>
+            <TextView
+                android:paddingVertical="10dp"
+                android:id="@+id/edit_class"
+                android:foreground="?selectableItemBackground"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="编辑"
+                android:clickable="true"
+                android:textColor="@color/con_back"
+                android:gravity="center"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
